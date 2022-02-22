@@ -1,3 +1,5 @@
+Diff{
 int a 
 int b
 diff=a-b;
+}
